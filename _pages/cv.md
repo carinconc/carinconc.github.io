@@ -15,9 +15,7 @@ Education
 * PhD in Computer Science: 2014-2018, UH, Houston - USA.
 
   School: University of Houston. Computer Science Department. 
-  
   Research Area: Real-time Systems and Storage Systems
-  
   GPA: 4.0 
 
 * PhD on Informatics (Diploma of Advanced Studies): 2005-2008, UPM - LUZ, Spain - Venezuela 
