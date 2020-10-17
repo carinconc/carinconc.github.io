@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos A. Rincon C. Ph.D."
+title                    : "Carlos Rincon Ph.D."
 title_separator          : "-"
-name                     : &name "Carlos Rincon Ph.D."
+name                     : &name "Carlos A. Rincon C. Ph.D."
 description              : &description ""
 url                      : https://carinconc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
