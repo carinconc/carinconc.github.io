@@ -32,16 +32,20 @@ Education
 Work experience
 ======
 
-* **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Instructional Assistant Professor | Fall 2018 - Present **
+* **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Instructional Assistant Professor | Fall 2018 - Present**
+  
   Instructional Assistant Professor teaching the following courses: Fundamentals of Operating Systems, Computer Science and Programming, Introduction to Programming, and Programming and Data Structures.
 
 * **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Teaching Fellow | Summer 2018**
+  
   Teaching fellow of the Fundamentals of Operating Systems course. 
  
 * **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Teaching Assistant | 2014 – 2018**
+  
   Teaching assistant of the following courses: Operating Systems (graduate and undergraduate), and Introduction to Programming (undergraduate).
 
-* **UNIVERSIDAD DEL ZULIA – Computer Science Department – VENEZUELA. Associate professor | 2001 – 2014 **
+* **UNIVERSIDAD DEL ZULIA – Computer Science Department – VENEZUELA. Associate professor | 2001 – 2014**
+  
   * Head of the Department of Computer Science (2008 – 2014).
   * School of Sciences - Network Administrator (2005 – 2008).
   * Computer Science Department - Lab Administrator (2003 – 2005).
@@ -49,6 +53,7 @@ Work experience
   * Research: Information Theory and Compression, Distributed Systems.
 
 * **AGRONIVAR – IT Department – VENEZUELA. Developer – IT Consultant | 2000 – 2001**
+  
   * HW and SW support.
   * Developer using C++ and Oracle DB.
 
