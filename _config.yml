@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Carlos Rincon Ph.D."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Carlos A. Rincon C. Ph.D."
 description              : &description ""
