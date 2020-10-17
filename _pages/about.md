@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carlos A. Rincon C. Ph.D. website"
+title: "Carlos A. Rincon C. Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
