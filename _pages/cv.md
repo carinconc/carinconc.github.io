@@ -15,8 +15,7 @@ Education
 * **PhD in Computer Science (2014-2018)**
 
   University of Houston, Computer Science Department. 
-  Research Area: Real-time Systems and Storage Systems
-  GPA: 4.0 
+  Research Area: Real-time Systems and Storage Systems.
 
 * **PhD on Informatics (Diploma of Advanced Studies 2005-2008)** 
 
@@ -27,12 +26,6 @@ Education
   Universidad Rafael Belloso Chacín, Graduate Studies department. This degree focused heavily on networks and its applications. Thesis: A mathematical study of Ethernet networks performance. 
 
 * **Bachelor in Computer Science (1994-2000)**
-  
-  Universidad del Zulia, Computer Science. 5-year degree undergraduate program in Computer Science. 
-
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
