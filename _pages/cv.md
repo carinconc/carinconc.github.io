@@ -11,6 +11,24 @@ redirect_from:
 
 Education
 ======
+
+* PhD in Computer Science: 2014-2018, UH, Houston - USA 
+  School: University of Houston. Computer Science Department. 
+  Research Area: Real-time Systems and Storage Systems
+  GPA: 4.0 
+
+* PhD on Informatics (Diploma of Advanced Studies): 2005-2008, UPM - LUZ, Spain - Venezuela 
+  School: Universidad Politécnica de Madrid. Informatics Department. 
+  Description: joint PhD program between Universidad Politécnica de Madrid and the Universidad del Zulia. Diploma of Advanced Studies obtained (23 credits on regular or special courses and 12 credits in research hours with a dissertation). 
+
+* Master in Telematics: 2001-2003, URBE, Venezuela 
+  School: Universidad Rafael Belloso Chacín, Graduate Studies department. 
+  Description: This degree focused heavily on networks and its applications. A mathematical study of Ethernet networks performance was made as thesis. 
+
+* Bachelor in Computer Science: 1994-2000, LUZ, Venezuela.
+  School: Universidad del Zulia, Computer Science.
+  Description: 5-year degree undergraduate program in Computer Science. 
+
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
