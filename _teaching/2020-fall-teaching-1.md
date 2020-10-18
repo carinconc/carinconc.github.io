@@ -7,8 +7,8 @@ venue: "University of Houston, Computer Science Deparment"
 date: 2020-08-24
 location: "Houston, USA"
 ---
+*Tuesdays and Thursdays from 11:30 AM to 1:00 PM*
 
-                       
 **LEARNING OBJECTIVES**
 
 At the end of this course, the student should be able to:
