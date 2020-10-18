@@ -8,7 +8,8 @@ date: 2020-08-24
 location: "Houston, USA"
 ---
 
-**LEARNING OBJECTIVES**
+
+LEARNING OBJECTIVES
 
 At the end of this course, the student should be able to:
 
