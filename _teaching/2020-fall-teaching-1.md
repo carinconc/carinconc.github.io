@@ -18,3 +18,5 @@ At the end of this course, the student should be able to:
 -	Explain how operating systems schedule processes and threads. 
 -	Understand the different memory management solutions provided by the operating system. 
 -	Understand the I/O management tools and file system design aspects and implementation.
+
+[Moodle Website](https://moodle2.cs.uh.edu/moodle/course/view.php?id=661)
