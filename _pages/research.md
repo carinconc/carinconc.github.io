@@ -7,8 +7,3 @@ author_profile: true
 
 <h1><b>Current Projects</b></h1>
 
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
