@@ -12,8 +12,8 @@ location: "Houston, USA"
 
 At the end of this course, the student should be able to:
 
-•	Describe the key functions of an operating system and its relationship with the components of a computer system. 
-•	Understand the process management aspects of the operating system:  control and description of processes, threads, interprocess communication, and concurrency mechanisms. 
-•	Explain how operating systems schedule processes and threads. 
-•	Understand the different memory management solutions provided by the operating system. 
-•	Understand the I/O management tools and file system design aspects and implementation.
+- Describe the key functions of an operating system and its relationship with the components of a computer system. 
+-	Understand the process management aspects of the operating system:  control and description of processes, threads, interprocess communication, and concurrency mechanisms. 
+-	Explain how operating systems schedule processes and threads. 
+-	Understand the different memory management solutions provided by the operating system. 
+-	Understand the I/O management tools and file system design aspects and implementation.
