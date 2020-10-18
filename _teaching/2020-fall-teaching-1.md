@@ -9,7 +9,7 @@ location: "Houston, USA"
 ---
 
 
-LEARNING OBJECTIVES
+**LEARNING OBJECTIVES
 
 At the end of this course, the student should be able to:
 
