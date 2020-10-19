@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Publications"
+permalink: /publications/
 author_profile: true
-
-
-{% include base_path %}
-
+---
 
 2020
 ======
