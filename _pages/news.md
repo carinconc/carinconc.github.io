@@ -5,10 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-2020
-======
-
-FALL
+FALL 2020
 ======
 
 * **Dr. Rincon won the 2020 UHCS Faculty Excellence Award in Teaching.**
