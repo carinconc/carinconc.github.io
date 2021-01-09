@@ -1,5 +1,5 @@
 ---
-title: "COSC 1306 - 21094 Computer Science and Programming"
+title: "COSC 1306 - 21094 - Computer Science and Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
