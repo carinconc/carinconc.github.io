@@ -1,5 +1,5 @@
 ---
-title: "COSC 1430 - 18911 - Introduction to Programming"
+title: "COSC 1437 - 18911 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
