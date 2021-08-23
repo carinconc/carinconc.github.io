@@ -5,13 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 
-Fall 2020
+Fall 2021
 ======
 
-* **Dr. Rincon won the 2020 UHCS Faculty Excellence Award in Teaching.**
+* **Dr. Rincon will be coordinating the Tutoring and Learning Center (Spring 2022).**
 
-* **Dr. Rincon will be teaching COSC 1430 and COSC 3360.**
+* **Dr. Rincon will be teaching COSC 1437 and COSC 3360.**
 
-* **Dr. Rincon is part of the group of instructors working on the UH Alternative Textbook Incentive Program project entitled: COSC 1306: Introduction to Computer Science and Programming for Fall 2020 and Spring 2021.**
+* **Dr. Rincon is the Information System Chair of the 27th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2021).**
 
-* **Dr. Rincon's new webpage is now live.**
