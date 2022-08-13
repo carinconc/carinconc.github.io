@@ -7,9 +7,7 @@ venue: "University of Houston, Computer Science Deparment"
 date: 2022-08-22
 location: "Houston, USA"
 ---
-*13572: Mondays and Wednesdays from 2:30 PM to 4 PM*
-
-*15772: Tuesdays and Thursdays from 11:30 AM to 1:00 PM*
+*13572: Mondays and Wednesdays from 2:30 PM to 4 PM. 15772: Tuesdays and Thursdays from 11:30 AM to 1:00 PM*
 
 **LEARNING OBJECTIVES**
 
