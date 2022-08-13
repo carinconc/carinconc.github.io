@@ -1,5 +1,5 @@
 ---
-title: "COSC 1437 - 17061 - Computer Science and Programming"
+title: "COSC 1437 - 17061 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
