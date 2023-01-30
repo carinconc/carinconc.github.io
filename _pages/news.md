@@ -5,10 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
-Fall 2022
+Spring 2023
 ======
 
-* **Dr. Rincon will be the Director the Tutoring and Learning Center.**
+* **Dr. Rincon was awarded with the 2023 Certificate in Effective College Instruction by the Association of College and University Educators in collaboration with the American Council on Education**
 
 * **Dr. Rincon will be teaching COSC 1437 and COSC 3360.**
 
