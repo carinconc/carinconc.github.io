@@ -1,13 +1,13 @@
 ---
-title: "COSC 1437 - 17061 - Introduction to Programming"
+title: "COSC 1437 - 26641 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching-1
+permalink: /teaching/2023-spring-teaching-1
 venue: "University of Houston, Computer Science Deparment"
-date: 2022-08-22
+date: 2023-01-17
 location: "Houston, USA"
 ---
-*Mondays and Wednesdays from 1:00 PM to 2:30 PM*
+*Tuesdays and Thursdays from 11:30 AM to 1:00 PM*
 
 **LEARNING OBJECTIVES**
 
