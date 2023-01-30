@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "University of Houston, Computer Science Deparment"
-date: 2022-08-22
+date: 2023-01-17
 location: "Houston, USA"
 ---
 *24967: Tuesdays and Thursdays from 2:30 PM to 4 PM. 15065: Tuesdays and Thursdays from 4:00 PM to 5:30 PM*
