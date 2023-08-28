@@ -7,6 +7,7 @@ author_profile: true
 
 **CONFERENCE PAPERS**
 
+  - Carlos Rincon, Daniel Rivas, and Albert M. K. Cheng. Entropy-based scheduling performance in real-time multiprocessor systems. 57th Annual Conference on Information Sciences and Systems (CISS 2023).
   - Kevin Bailey, Albert Cheng, Pavan Kumar Paluri, Guangli Dai and Carlos Rincon, “Implementing the Regularity-based Resource Partition Model on RT-Xen”. 30th Euromicro Conference on Real-Time Systems (ECRTS18) Work in Progress Session. July 3 - 6, 2018
 Barcelona, Spain.
   - Carlos A. Rincón C and Albert M. K. Cheng, “SITSA-RT: An Information Theory Inspired Real-Time Multiprocessor Scheduler”. 2018 IEEE 21st International Symposium on Real-Time Distributed Computing (ISORC), Singapore, 2018, pp. 156-163.
