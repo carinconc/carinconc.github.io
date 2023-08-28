@@ -37,6 +37,8 @@ Work experience
   
   Instructional Assistant Professor teaching the following courses: Fundamentals of Operating Systems, Computer Science and Programming, Introduction to Programming, and Programming and Data Structures.
 
+  Director of the ConocoPhillips Computer Science Learning Center (Fall 2022 - Present).
+
 * **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Teaching Fellow (Summer 2018)**
   
   Teaching fellow of the Fundamentals of Operating Systems course. 
