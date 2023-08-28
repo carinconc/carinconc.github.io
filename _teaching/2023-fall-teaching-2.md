@@ -2,12 +2,12 @@
 title: "COSC 3360 - Fundamentals of Operating Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-2
-venue: "University of Houston, Computer Science Deparment"
-date: 2023-01-17
+permalink: /teaching/2023-fall-teaching-2
+venue: "University of Houston, Computer Science Department"
+date: 2023-08-21
 location: "Houston, USA"
 ---
-*24967: Tuesdays and Thursdays from 2:30 PM to 4 PM. 15065: Tuesdays and Thursdays from 4:00 PM to 5:30 PM*
+*14794: Tuesdays and Thursdays from 11:30 AM to 1 PM. 23466 and 25945: Tuesdays and Thursdays from 1:00 PM to 2:30 PM*
 
 **LEARNING OBJECTIVES**
 
