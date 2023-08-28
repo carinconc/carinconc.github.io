@@ -1,5 +1,5 @@
 ---
-title: "COSC 1437 - 14794 - Introduction to Programming"
+title: "COSC 1437 - 16946 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
