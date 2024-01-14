@@ -1,5 +1,5 @@
 ---
-title: "COSC 3360 - Fundamentals of Operating Systems"
+title: "COSC 6310 - Fundamentals of Operating Systems"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-teaching-3
