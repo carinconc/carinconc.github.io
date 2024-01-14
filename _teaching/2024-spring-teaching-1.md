@@ -1,5 +1,5 @@
 ---
-title: "COSC 1437 - 16946 - Introduction to Programming"
+title: "COSC 1437 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
@@ -11,7 +11,7 @@ location: "Houston, USA"
 
 **LEARNING OBJECTIVES**
 
-This course aims to reinforce the student’s knowledge of structured programming and introduce students to the Object-Oriented Programming (OOP) paradigm. To develop their programming skills, students will learn:
+This course aims to reinforce the students' knowledge of structured programming and introduce them to the object-oriented programming (OOP) paradigm. To develop their programming skills, students will learn:
 
 - Structured Programming principles.
 - Object-oriented programming principles.
