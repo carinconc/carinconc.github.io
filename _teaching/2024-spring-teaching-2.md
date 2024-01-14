@@ -1,5 +1,5 @@
 ---
-title: "COSC 3360 - Fundamentals of Operating Systems"
+title: "COSC 3360 - Operating Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-2
