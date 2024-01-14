@@ -1,5 +1,5 @@
 ---
-title: "COSC 1336 - Computer Science and Programmin"
+title: "COSC 1336 - Computer Science and Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-0
@@ -14,5 +14,5 @@ location: "Houston, USA"
 At the end of this course, the student should be able to:
 
 - Understand the basic principles of hardware and software of a computer system.
--	Demonstrate their computational thinking skills by analyzing a problem and presenting an algorithmic solution.
+-	Demonstrate their computational thinking skills by analyzing problems and presenting an algorithmic solution.
 -	Demonstrate their ability to write programs in Python by using basic programming principles, branches, loops, functions, file I/O, and composite data types.
