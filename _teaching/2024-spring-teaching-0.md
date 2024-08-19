@@ -1,18 +1,25 @@
 ---
-title: "COSC 1336 - Computer Science and Programming"
+title: "COSC 1437 - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-teaching-0
+permalink: /teaching/2024-fall-teaching-0
 venue: "University of Houston, Computer Science Department"
-date: 2024-01-16
+date: 2024-08-19
 location: "Houston, USA"
 ---
-*Tuesdays and Thursdays from 4 PM to 5:30 PM.*
+*Mondays and Wednesdays from 1:00 PM to 2:30 PM*
 
 **LEARNING OBJECTIVES**
 
-At the end of this course, the student should be able to:
+This course aims to reinforce the students' knowledge of structured programming and introduce them to the object-oriented programming (OOP) paradigm. To develop their programming skills, students will learn:
 
-- Understand the basic principles of hardware and software of a computer system.
--	Demonstrate their computational thinking skills by analyzing problems and presenting an algorithmic solution.
--	Demonstrate their ability to write programs in Python by using basic programming principles, branches, loops, functions, file I/O, and composite data types.
+- Structured Programming principles.
+- Object-oriented programming principles.
+
+**LEARNING OUTCOMES**
+
+Based on satisfactory completion of the course, a student should be able to: 
+
+- Demonstrate an understanding of Structured Programming principles (branches, loops, arrays, pointers, functions, file I/O, and structures).
+- Demonstrate an understanding of Object-oriented programming principles (classes, inheritance and composition, polymorphism, exception handling, and templates).
+- Demonstrate the ability to implement solutions using encapsulation and data-hiding principles from the object-oriented programming paradigm.
