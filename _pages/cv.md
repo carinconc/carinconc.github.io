@@ -33,11 +33,15 @@ Education
 Work experience
 ======
 
+* **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Instructional Associate Professor (Fall 2024 - Present)**
+  
+  Instructional Associate Professor teaching the following courses: Fundamentals of Operating Systems, Computer Science and Programming, Introduction to Programming, and Programming and Data Structures.
+
 * **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Director of the ConocoPhillips Computer Science Learning Center (Fall 2022 - Present).**
 
-  The ConocoPhillips Computer Science Learning Center is a program of the Department of Computer Science that offers resources and activities allowing students to succeed in COSC courses.
+  The ConocoPhillips Computer Science Learning Center is a program of the Department of Computer Science that offers resources and activities to help students succeed in COSC courses.
 
-* **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Instructional Assistant Professor (Fall 2018 - Present)**
+* **UNIVERSITY OF HOUSTON – Computer Science Department – USA. Instructional Assistant Professor (Fall 2018 - Summer 2024)**
   
   Instructional Assistant Professor teaching the following courses: Fundamentals of Operating Systems, Computer Science and Programming, Introduction to Programming, and Programming and Data Structures.
 
