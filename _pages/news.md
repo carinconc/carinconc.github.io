@@ -8,7 +8,7 @@ author_profile: true
 Fall 2024
 ======
 
-* **Dr. Rincon was promoted to Instructional Associate Professor**
+* **Dr. Rincon was promoted to Instructional Associate Professor.**
 
 * **Dr. Rincon will be teaching COSC 1437 and COSC 3360.**
 
