@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Instructional Assistant Professor of the Computer Science Department at the University of Houston. I was born in Maracaibo, Venezuela. After working in the industry for two years, I joined the Department of Computer Science at Universidad del Zulia in Maracaibo, Venezuela, in 2001. After completing my Master's in Telematics, I started working on the performance analysis of local area networks. In 2008, my research interests shifted to Information Theory, using compression theory to present solutions to different studied problems. In 2014, I joined the Ph. D. program at the University of Houston, working with Dr. Albert Cheng on Real-time systems scheduling using Information Theory principles.
+I am an Instructional Associate Professor of the Computer Science Department at the University of Houston. I was born in Maracaibo, Venezuela. After working in the industry for two years, I joined the Department of Computer Science at Universidad del Zulia in Maracaibo, Venezuela, in 2001. After completing my Master's in Telematics, I started working on the performance analysis of local area networks. In 2008, my research interests shifted to Information Theory, using compression theory to present solutions to different studied problems. In 2014, I joined the Ph. D. program at the University of Houston, working with Dr. Albert Cheng on Real-time systems scheduling using Information Theory principles.
 
 Teaching Philosophy
 ======
 
-My goal as a professor of Computer Science is to disseminate knowledge in the theory and application of computing, ensuring that students learn how to solve real-life problems by using the theoretical background explained in class.
+My goal as a Computer Science professor is to disseminate knowledge in the theory and application of computing, ensuring that students learn how to solve real-life problems by using the theoretical background explained in class.
 
 I believe that algorithmic thinking is an essential skill that every computer science student must develop. From my experience, I have learned that first-year students tend to struggle more in computer science classes because they need help finding a clear definition of the steps necessary to solve a particular problem. My strategy to approach this issue is to encourage students to fully understand the problem they are trying to solve before developing a solution.
 
@@ -24,6 +24,6 @@ To summarize, my teaching philosophy boils down to two key goals: to provide my 
 Research Philosophy
 ======
 
-My research interests are in the areas of real-time systems, and storage systems. My work is driven by a strong desire to bridge the Information Theory methods to measure the uncertainty of a system and real-time system scheduling, providing practical solutions for embedded systems. My main research area focuses explicitly on the Scheduling of Hard Real-time Systems based on Information Theory Principles.
+My research interests are in real-time systems and storage systems. My work is driven by a strong desire to bridge Information Theory methods to measure a system's uncertainty and real-time system scheduling, providing practical solutions for embedded systems. My main research area focuses explicitly on Scheduling Hard Real-time Systems based on Information Theory Principles.
 
-My research philosophy places a strong emphasis on finding solutions that can be implemented to solve real-life problems. Real-time systems scheduling for multiprocessors is one of the areas in computer science where theoretical results are often put into practice, with many challenging problems that are usually NP-complete or undecidable. I offer my research as part of my student's learning experience, showing them my current work and its relationship with the theoretical background of the class.
+My research philosophy strongly emphasizes finding solutions that can be implemented to solve real-life problems. Real-time systems scheduling for multiprocessors is one area in computer science where theoretical results are often put into practice, with many challenging problems that are usually NP-complete or undecidable. I offer my research as part of my student's learning experience, showing them my current work and its relationship with the theoretical background of the class.
