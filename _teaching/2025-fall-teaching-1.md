@@ -1,5 +1,5 @@
 ---
-title: "COSC 3360 - Operating Systems - 13010"
+title: "COSC 3360 (13010) - Operating Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-1
