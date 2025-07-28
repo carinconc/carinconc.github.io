@@ -1,5 +1,5 @@
 ---
-title: "COSC 1437 - Introduction to Programming"
+title: "COSC 1437 - Introduction to Programming - 15099 (Lecture) and 15100 (Lab)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-0
@@ -7,7 +7,7 @@ venue: "University of Houston, Computer Science Department"
 date: 2025-08-25
 location: "Houston, USA"
 ---
-*Mondays and Wednesdays from 1:00 PM to 2:30 PM*
+*Lectures: Mondays and Wednesdays from 1:00 to 2:30 PM, Labs: Mondays from 2:30 to 4:00 PM.*
 
 **LEARNING OBJECTIVES**
 
