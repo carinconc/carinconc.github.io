@@ -1,5 +1,5 @@
 ---
-title: "COSC 1437 - Introduction to Programming - 15099 (Lecture) and 15100 (Lab)"
+title: "COSC 1437 - 15099 (Lecture) and 15100 (Lab) - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-0
