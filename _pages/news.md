@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-Fall 2025
+Spring 2026
 ======
 
 * **Dr. Rincon will be teaching COSC 1437 and COSC 3360.**
