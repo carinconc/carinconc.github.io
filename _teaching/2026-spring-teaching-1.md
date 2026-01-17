@@ -1,13 +1,13 @@
 ---
-title: "COSC 3360 (13010) - Operating Systems"
+title: "COSC 3360 (18979) - Operating Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-teaching-1
+permalink: /teaching/2026-spring-teaching-1
 venue: "University of Houston, Computer Science Department"
-date: 2025-08-25
+date: 2026-01-20
 location: "Houston, USA"
 ---
-*Tuesdays and Thursdays from 11:30 AM to 1:00 PM.*
+*Tuesdays and Thursdays from 1:00 PM to 2:30 PM.*
 
 **LEARNING OBJECTIVES**
 
