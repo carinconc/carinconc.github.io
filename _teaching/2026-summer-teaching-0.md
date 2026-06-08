@@ -7,7 +7,7 @@ venue: "University of Houston, Computer Science Department"
 date: 2026-06-09
 location: "Houston, USA"
 ---
-*Lectures: Mondays and Wednesdays from 1:00 to 2:30 PM, Labs: Mondays from 2:30 to 4:00 PM.*
+*Lectures: Tuesdays, Wednesdays, and Thursdays from 2:00 to 4:00 PM, Labs: Wednesdays from 12:00 to 2:00 PM.*
 
 **LEARNING OBJECTIVES**
 
