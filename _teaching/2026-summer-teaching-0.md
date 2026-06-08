@@ -1,10 +1,10 @@
 ---
-title: "COSC 1437 - 13436 (Lecture) and 13438 (Lab) - Introduction to Programming"
+title: "COSC 1437 - 11478 (Lecture) and 11618 (Lab) - Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-spring-teaching-0
+permalink: /teaching/2026-summer-teaching-0
 venue: "University of Houston, Computer Science Department"
-date: 2026-01-20
+date: 2026-06-09
 location: "Houston, USA"
 ---
 *Lectures: Mondays and Wednesdays from 1:00 to 2:30 PM, Labs: Mondays from 2:30 to 4:00 PM.*
